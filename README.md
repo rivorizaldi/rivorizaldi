@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rivorizaldi&theme=algolia&count_private=true)](https://github.com/rivorizaldi/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rivorizaldi&layout=compact&show_icons=true&langs_count=10)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rivorizaldi&layout=compact&show_icons=true&langs_count=10&theme=algolia)
